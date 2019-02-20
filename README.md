@@ -174,3 +174,13 @@ No solution possible
 
 Your program should work correctly for arbitrary n-by-n boards (for any 2 ≤ n < 128), even if it is too slow to solve some of them in a reasonable amount of time.
 Deliverables. Submit only the files Board.java and Solver.java (with the Manhattan priority). We will supply algs4.jar. You may not call any library functions other those in java.lang, java.util, and algs4.jar. You must use [MinPQ](https://algs4.cs.princeton.edu/code/javadoc/edu/princeton/cs/algs4/MinPQ.html) for the priority queue(s).
+
+
+This assignment was developed by Kevin Wayne of Princeton University. 
+Copyright © 2005.
+
+**Program Specification**<br>
+http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+
+**FAQ/Checklist**<br>
+http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html **Very useful for this project**
