@@ -13,7 +13,7 @@ public class BoardTest {
   Board board;
   @Before
   public void setUp() throws Exception {
-    board = generateBoard("input10.txt");
+    board = generateBoard("puzzle10.txt");
   }
   
   private Board generateBoard(String filename) {
@@ -45,9 +45,5 @@ public class BoardTest {
     //fail("Not yet implemented");
   }
 
-  @Test
-  public void testSegments() {
-    //fail("Not yet implemented");
-  }
 
 }
